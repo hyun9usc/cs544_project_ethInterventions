@@ -1,0 +1,9 @@
+h5py
+scipy
+torch
+tqdm
+ujson
+numpy
+tensorboard
+matplotlib
+transformers
